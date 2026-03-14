@@ -14,8 +14,8 @@ I design and build intelligent software systems combining modern web technologie
 
 <p align="center">
 <a href="https://shuvamduttadev.me"><b>🌐 Portfolio</b></a> •
-<a href="https://github.com/YOURUSERNAME"><b>GitHub</b></a> •
-<a href="https://linkedin.com/in/YOURLINKEDIN"><b>LinkedIn</b></a>
+<a href="https://github.com/shuvamdutta2004"><b>GitHub</b></a> •
+<a href="https://www.linkedin.com/in/shuvam-dutta-17731428b"><b>LinkedIn</b></a>
 </p>
 
 ---
@@ -26,8 +26,8 @@ I am a developer focused on building scalable applications and intelligent syste
 
 - 💻 Full Stack Web Development
 - 🤖 Artificial Intelligence & Machine Learning
-- 🌍 Founder of **NOVUSTECH SURVEYS PRIVATE LIMITED**
-- 🛰️ Interested in technology, startups, and innovation
+- 🌍 Core Team Member of GDG ON CAMPUS FIEM
+- 🛰️ Core Team Member of FIEM ACM STUDENT CHAPTER
 - 🧠 Always learning and experimenting with new technologies
 
 ---
@@ -52,7 +52,7 @@ I am a developer focused on building scalable applications and intelligent syste
 
 **Tools & Platforms**
 
-`Git` • `Docker` • `AWS` • `Firebase` • `Linux`
+`Git` • `Docker` • `AWS` • `Firebase`
 
 ---
 
@@ -60,9 +60,9 @@ I am a developer focused on building scalable applications and intelligent syste
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=shuvamdutta2004&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvamdutta2004&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -82,9 +82,9 @@ Currently working on:
 ## 🌐 Connect With Me
 
 - Portfolio → https://shuvamduttadev.me
-- GitHub → https://github.com/YOURUSERNAME
-- LinkedIn → https://linkedin.com/in/YOURLINKEDIN
-- Email → yourmail@gmail.com
+- GitHub → https://github.com/shuvamdutta2004
+- LinkedIn → https://www.linkedin.com/in/shuvam-dutta-17731428b
+- Email → shuvamd172@gmail.com
 
 ---
 
