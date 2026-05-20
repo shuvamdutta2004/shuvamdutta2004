@@ -13,14 +13,22 @@ I design and build intelligent software systems combining modern web technologie
 </p>
 
 <p align="center">
-<a href="https://shuvamduttadev.me"><b>🌐 Portfolio</b></a> •
-<a href="https://github.com/shuvamdutta2004"><b>GitHub</b></a> •
-<a href="https://www.linkedin.com/in/shuvam-dutta-17731428b"><b>LinkedIn</b></a>
+<a href="https://shuvamduttadev.me">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shuvamdutta2004">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shuvam-dutta-17731428b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 I am a developer focused on building scalable applications and intelligent systems.
 
@@ -32,80 +40,92 @@ I am a developer focused on building scalable applications and intelligent syste
 
 ---
 
-## 🧠 Technical Skills
+# 🧠 Technical Skills
 
-**Languages**
+## Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 
-`JavaScript` • `Python` • `Java` • `SQL`
+## Frontend
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwind-css)
 
-**Frontend**
+## Backend
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 
-`React` • `Next.js` • `HTML` • `CSS` • `Tailwind`
+## AI / ML
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-black?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-black?style=flat-square)
 
-**Backend**
-
-`Node.js` • `Express.js` • `REST APIs`
-
-**AI / ML**
-
-`Machine Learning` • `Deep Learning` • `Data Analysis`
-
-**Tools & Platforms**
-
-`Git` • `Docker` • `AWS` • `Firebase`
+## Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shuvamdutta2004&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shuvamdutta2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvamdutta2004&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvamdutta2004&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
 ---
 
-## 🔥 Current Focus
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shuvamdutta2004&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shuvamdutta2004&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+# 🔥 Current Focus
 
 Currently working on:
 
-• AI powered applications  
-• Scalable web platforms  
-• Real-world software solutions  
-• Open source contributions  
+- AI powered applications
+- Scalable web platforms
+- Real-world software solutions
+- Open source contributions
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-- Portfolio → https://shuvamduttadev.me
-- GitHub → https://github.com/shuvamdutta2004
-- LinkedIn → https://www.linkedin.com/in/shuvam-dutta-17731428b
-- Email → shuvamd172@gmail.com
+- 🌍 Portfolio → https://shuvamduttadev.me
+- 💻 GitHub → https://github.com/shuvamdutta2004
+- 🔗 LinkedIn → https://www.linkedin.com/in/shuvam-dutta-17731428b
+- 📧 Email → shuvamd172@gmail.com
 
 ---
 
-## 💡 Developer Philosophy
+# 💡 Developer Philosophy
 
 > Build technology that solves real problems and creates meaningful impact.
 
 ---
 
-⭐ From **Shuvam Dutta**
-<!--
-**shuvamdutta2004/shuvamdutta2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+⭐ From <b>Shuvam Dutta</b>
+</p>
