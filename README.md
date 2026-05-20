@@ -76,9 +76,15 @@ I am a developer focused on building scalable applications and intelligent syste
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shuvamdutta2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img 
+src="https://github-readme-stats.vercel.app/api?username=shuvamdutta2004&show_icons=true&theme=radical&cache_seconds=1800" 
+height="180em" 
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvamdutta2004&layout=compact&theme=tokyonight&hide_border=true" />
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvamdutta2004&layout=compact&theme=radical&cache_seconds=1800" 
+height="180em" 
+/>
 
 </p>
 
