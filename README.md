@@ -75,18 +75,21 @@ I am a developer focused on building scalable applications and intelligent syste
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shuvamdutta2004&show_icons=true&theme=tokyonight"
-    height="180em"
-  />
   
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvamdutta2004&layout=compact&theme=tokyonight"
-    height="180em"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ShuvamDutta2004&show_icons=true&theme=github_dark&hide_border=true" 
+    width="48%"
   />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuvamDutta2004&layout=compact&theme=github_dark&hide_border=true" 
+    width="48%"
+  />
+
 </p>
 
 ---
+
 
 ## 🔥 GitHub Streak
 
