@@ -72,28 +72,28 @@ I am a developer focused on building scalable applications and intelligent syste
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=shuvamdutta2004&show_icons=true&theme=radical&cache_seconds=1800" 
-height="180em" 
-/>
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvamdutta2004&layout=compact&theme=radical&cache_seconds=1800" 
-height="180em" 
-/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shuvamdutta2004&show_icons=true&theme=tokyonight"
+    height="180em"
+  />
+  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvamdutta2004&layout=compact&theme=tokyonight"
+    height="180em"
+  />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=shuvamdutta2004&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=shuvamdutta2004&theme=tokyonight"
+  />
 </p>
 
 ---
